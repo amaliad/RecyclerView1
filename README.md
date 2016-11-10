@@ -12,6 +12,6 @@
 
 # Screenshot
 
-![Image of SS1](https://imageshack.com/i/pm6t3buzp)
+![Image of SS1](http://imagizer.imageshack.us/v2/150x100q90/923/Dy6fZz.png)
 
 ![Image of SS2](https://imageshack.com/i/pnDy6fZzp)
