@@ -12,6 +12,6 @@
 
 # Screenshot
 
-![Image of SS1](<a target="_blank" href="http://imageshack.com/f/pm6t3buzp"><img src="http://imagizer.imageshack.us/v2/150x100q90/922/6t3buz.png" border="0"></a>)
+![Image of SS1](http://imagizer.imageshack.us/v2/150x100q90/922/6t3buz.png)
 
-![Image of SS2](<a target="_blank" href="http://imageshack.com/f/pnDy6fZzp"><img src="http://imagizer.imageshack.us/v2/150x100q90/923/Dy6fZz.png" border="0"></a>)
+![Image of SS2](http://imagizer.imageshack.us/v2/150x100q90/923/Dy6fZz.png)
