@@ -12,6 +12,7 @@
 
 # Screenshot
 
+* 1
 ![Image of SS1](http://imagizer.imageshack.us/v2/1024x768q90/922/6t3buz.png)
-
+* 2
 ![Image of SS2](http://imagizer.imageshack.us/v2/1024x768q90/923/Dy6fZz.png)
